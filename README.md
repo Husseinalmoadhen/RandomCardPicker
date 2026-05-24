@@ -44,15 +44,8 @@ The application demonstrates GUI programming, event handling, animations, and im
 ## How to Run
 
 1. Install Java and JavaFX
-2. Open project in VS Code
-3. Run:
-
-```bash
-javac RandomCardPicker.java
-java RandomCardPicker
-```
-
----
+2. Open the project in VS Code
+3. Run `RandomCardPicker.java` using JavaFX
 
 ## Learning Outcomes
 
