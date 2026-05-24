@@ -38,7 +38,7 @@ The application demonstrates GUI programming, event handling, animations, and im
 
 ## Demo Video
 
-[Watch Demo Video](media/demo.mp4)
+[Click Here to Watch the Demo](media/demo.mp4)
 
 ---
 
