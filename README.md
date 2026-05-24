@@ -58,3 +58,16 @@ This project helped strengthen understanding of:
 - Object-oriented programming
 - Randomization logic
 - Desktop application development
+
+---
+
+## Skills Demonstrated
+
+- Object-Oriented Programming (OOP)
+- GUI Development
+- JavaFX
+- Event-Driven Programming
+- Animation Programming
+- Image Handling
+- Randomization Logic
+- Software Documentation
